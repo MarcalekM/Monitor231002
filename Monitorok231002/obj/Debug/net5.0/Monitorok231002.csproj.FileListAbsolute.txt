@@ -1,0 +1,16 @@
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\bin\Debug\net5.0\Monitorok231002.exe
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\bin\Debug\net5.0\Monitorok231002.deps.json
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\bin\Debug\net5.0\Monitorok231002.runtimeconfig.json
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\bin\Debug\net5.0\Monitorok231002.runtimeconfig.dev.json
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\bin\Debug\net5.0\Monitorok231002.dll
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\bin\Debug\net5.0\ref\Monitorok231002.dll
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\bin\Debug\net5.0\Monitorok231002.pdb
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\obj\Debug\net5.0\Monitorok231002.csproj.AssemblyReference.cache
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\obj\Debug\net5.0\Monitorok231002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\obj\Debug\net5.0\Monitorok231002.AssemblyInfoInputs.cache
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\obj\Debug\net5.0\Monitorok231002.AssemblyInfo.cs
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\obj\Debug\net5.0\Monitorok231002.csproj.CoreCompileInputs.cache
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\obj\Debug\net5.0\Monitorok231002.dll
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\obj\Debug\net5.0\ref\Monitorok231002.dll
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\obj\Debug\net5.0\Monitorok231002.pdb
+C:\Users\Ny19MarcalekM\source\repos\Monitorok231002\Monitorok231002\obj\Debug\net5.0\Monitorok231002.genruntimeconfig.cache
